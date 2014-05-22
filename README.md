@@ -1,0 +1,1 @@
+使用QColorDialog对话框 选取颜色
